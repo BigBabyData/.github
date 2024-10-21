@@ -6,7 +6,7 @@
 
 ### Team members:
 
- - 📢Team-lead:  [Тимофей Максимов](https://github.com/MaxTim3)
+ - 📢Team-lead + 📊analyst:  [Тимофей Максимов](https://github.com/MaxTim3)
  - 🖥Front-end developer:  [Курманов Никита](https://github.com/coolN1ckname)
  - 🌐Back-end developer:  [Кучашев Дауд](https://github.com/mndtr)
  - 🎨Design:  [Найдин Александр](https://github.com/fabric2728)
